@@ -11,3 +11,7 @@ Identificar los productos del menú lanzado a principios de año que han tenido 
 1. l 
    - 
    - 
+
+El menú contiene 32 artículos
+El artículo más caro es Shrimp Scampi con un precio de 19.95
+El artículo menos caro es Edamame con un precio de 5.00
