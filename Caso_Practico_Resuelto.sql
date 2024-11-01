@@ -118,11 +118,11 @@ FROM order_details;
 
 El promedio con respceto al horario en el que se realizan los pedidos es a las 16:22:27
 
---Estilo de cocina más y menos solicitado en cada platillo 
+--Estilo de cocina más y menos abundante en el menú solicitado en cada platillo 
 	
 SELECT 
 MIN(category) AS H_typeofcousine,
 MAX(category) AS L_typeofcousine
 FROM menu_items;
 
-El estilo de cocina más solicitados es el American y el menos solicitado es el Mexican
+El estilo de cocina que mayormentes se encuentra es el American y el menos menos se encuentra es el Mexican
